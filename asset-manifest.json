@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gift-for-natalia/static/css/main.c5185a5b.css",
-    "main.js": "/gift-for-natalia/static/js/main.c9410aea.js",
+    "main.js": "/gift-for-natalia/static/js/main.feb3be5c.js",
     "index.html": "/gift-for-natalia/index.html",
     "main.c5185a5b.css.map": "/gift-for-natalia/static/css/main.c5185a5b.css.map",
-    "main.c9410aea.js.map": "/gift-for-natalia/static/js/main.c9410aea.js.map"
+    "main.feb3be5c.js.map": "/gift-for-natalia/static/js/main.feb3be5c.js.map"
   },
   "entrypoints": [
     "static/css/main.c5185a5b.css",
-    "static/js/main.c9410aea.js"
+    "static/js/main.feb3be5c.js"
   ]
 }
